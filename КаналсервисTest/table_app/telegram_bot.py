@@ -1,9 +1,9 @@
 import telebot
 from telebot import types
 try:
-    from table_app.bot_scripts import get_overdue_orders, UserIdList
+    from table_app.bot_scripts import get_overdue_orders
 except ModuleNotFoundError:
-    from bot_scripts import get_overdue_orders, UserIdList
+    from bot_scripts import get_overdue_orders
 
 bot = telebot.TeleBot("5782497285:AAGFhmTEu5Qj6icAST-CYEJMfjGMEcJa6eQ")
 
