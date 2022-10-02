@@ -32,6 +32,8 @@ $ docker-compose exec web python manage.py collectstatic
 ```
 $ docker-compose exec web python table_app/telegram_bot.py
 ```
+Телеграм-бот находится по адресу @i_Canal_Service_Bot
+
 8. Для удаления всех контейнеров:
 ```
 $ docker-compose down
