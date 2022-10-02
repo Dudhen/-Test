@@ -34,6 +34,10 @@ $ docker-compose exec web python table_app/telegram_bot.py
 ```
 Телеграм-бот находится по адресу @i_Canal_Service_Bot
 
+8. Документ Google Sheets находится по адресу:
+```
+$ https://docs.google.com/spreadsheets/d/1dmxxjzCoOS6zbp3gOPHw5nMxiN5JCyp85Gn2wqPd_s0/edit#gid=0
+```
 8. Для удаления всех контейнеров:
 ```
 $ docker-compose down
