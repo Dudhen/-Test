@@ -9,7 +9,7 @@
 $ git clone --branch main https://github.com/Dudhen/-Test.git
 $ cd КаналсервисTest
   ```
-2. Запускаем создание образов и сборку контейнеров:
+2. Запускаем создание образов и сборку контейнеров (на компьютере должен быть запущен Docker Desktop):
 ```
 $ docker-compose up -d --build
 ```
