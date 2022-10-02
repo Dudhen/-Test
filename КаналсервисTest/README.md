@@ -6,7 +6,7 @@
 При запуске на windows необходимо клонировать репозиторий на диск c:/
 1. Клонируем репозиторий (или определенную ветку) и заходим в папку:
   ```
-$ git clone --branch development https://gitlab.com/webpythonscripts/client_account.git
+$ git clone --branch development https://github.com/Dudhen/-Test.git
 $ cd КаналсервисTest
   ```
 2. Запускаем создание образов и сборку контейнеров:
